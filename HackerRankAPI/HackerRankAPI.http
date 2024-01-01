@@ -1,0 +1,6 @@
+@HackerRankAPI_HostAddress = http://localhost:5193
+
+GET {{HackerRankAPI_HostAddress}}/topstories?number=1
+Accept: application/json
+
+###
